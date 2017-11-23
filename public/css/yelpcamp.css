@@ -1,0 +1,26 @@
+/*.campground-remove-icon {*/
+/*    color: #b30000;*/
+/*    font-size: 25px;*/
+/*    position: absolute;*/
+/*    right:  25px;*/
+/*    top: 10px;*/
+/*    display: none;*/
+/*}*/
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+    padding-bottom: 5px;
+}
+
+.thumbnail .caption-full {
+    padding: 5px;
+    padding-bottom: 0px;
+}
+
+.delete-form {
+    display: inline;
+}
