@@ -1,5 +1,7 @@
 # YelpCamp
 
+Yelpcamp is a demo site developed using NodeJS, Express, EJS and MongoDB. This is a full demo project for users to publish campgrounds and comment about their experiences.
+
 ## Initial Setup
 * Add Landing Page
 * Add Campgrounds Page that lists all campgrounds
